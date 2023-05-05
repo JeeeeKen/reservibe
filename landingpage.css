@@ -149,6 +149,11 @@ header{
         padding: 0 15px;
     }
 
+    .footer-col .links a{
+        text-decoration: none;
+        color: #fff;
+    }
+
     .footer-col li{
         font-size: 15px;
         list-style: none;
